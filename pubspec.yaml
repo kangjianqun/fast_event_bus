@@ -1,11 +1,10 @@
 name: fast_event_bus
-description: 一个事件发送工具
-version: 1.0.0
-author: 康建群 kang_1994@outlook.com
+description: An event sending tool, convenient and fast, can be used across pages
+version: 2.0.0
 homepage: https://github.com/StrangerKjq/flutter_event_bus
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
+  sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
   flutter:

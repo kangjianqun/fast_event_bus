@@ -1,6 +1,6 @@
 # fluttereventbus
 
-一个事件发送，第一次上传，暂没有示例，后续更新
+一个事件发送，暂没有示例，后续更新
 
 ## Getting Started
 
