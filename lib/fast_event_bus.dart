@@ -23,7 +23,7 @@ class _EventData {
 /// 跨页面事件发送
 /// 监听--发送
 class EventBus {
-  static late EventBus? _instance;
+  static EventBus? _instance;
 //  StreamController _streamController;
   late Map<String, StreamSubscription> _streamState;
   late Map<String, EventListen> _streamListen;
